@@ -1,0 +1,6 @@
+00000000|*Pneumothorax|C0032326|41157|MH|RtM via: Pneumothorax;Forced Leaf Node Lookup:pneumothorax|TI|MM;RC|209^12^0
+00000000|*Pleural Effusion|C0032227|32775|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM;RC|188^16^0
+00000000|*Lung|C0024109|16785|MH|RtM via: Lung;RtM via: Right lung|TI|MM;RC|273^4^0;116^5^0;261^5^1
+00000000|*Exudates and Transudates|C0015389|6402|MH|RtM via: Pleural effusion fluid|TI|MM|188^16^0
+00000000|*Insufflation|C0021634|990|MH|RtM via: Inflation procedure|TI|MM|135^8^0
+00000000|*Granuloma|C0018188|591|MH|RtM via: Calcified granuloma;Forced Non-Leaf Node Lookup:granulomas|TI|MM|230^19^0;240^9^0

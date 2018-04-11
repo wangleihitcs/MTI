@@ -1,0 +1,7 @@
+00000000|*Pneumothorax|C0032326|38868|MH|RtM via: Pneumothorax;Forced Leaf Node Lookup:pneumothorax|TI|MM;RC|217^12^0
+00000000|*Mediastinum|C0025066|13068|MH|RtM via: Mediastinum;Forced Leaf Node Lookup:mediastinum|TI|MM|47^11^0
+00000000|*Pleural Effusion|C0032227|35790|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM;RC|175^16^0
+00000000|*Pulmonary Edema|C0034063|27921|MH|RtM via: Pulmonary Edema|TI|MM;RC|102^15^0
+00000000|*Exudates and Transudates|C0015389|6864|MH|RtM via: Pleural effusion fluid|TI|MM|175^16^0
+00000000|*Heart|C0018787|4992|MH|RtM via: Cardiac shadow viewed radiologically|TI|MM;RC|24^18^0
+00000000|Edema|C0013604|1000|MH|Forced Non-Leaf Node Lookup:edema||MM|112^5^0

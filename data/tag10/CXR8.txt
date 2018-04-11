@@ -1,0 +1,7 @@
+00000000|*Pneumothorax|C0032326|44683|MH|RtM via: Pneumothorax;Forced Leaf Node Lookup:pneumothorax|TI|MM;RC|133^12^0
+00000000|*Mediastinum|C0025066|27043|MH|RtM via: Mediastinum;Forced Leaf Node Lookup:mediastinum|TI|MM|63^11^0
+00000000|*Spinal Fusion|C0037935|7723|MH|RtM via: Cervical arthrodesis;Forced Leaf Node Lookup:spinal fusions|TI|MM|232^22^0;241^13^0
+00000000|*Lung|C0024109|38214|MH|RtM via: Lung;RtM via: Pulmonary (qualifier value)|TI|MM;RC|44^9^0
+00000000|*Pleural Effusion|C0032227|37833|MH|RtM via: Pleural effusion disorder|TI|MM;RC|113^16^0
+00000000|*Pneumonia|C0032285|14538|MH|RtM via: Pneumonia;Forced Non-Leaf Node Lookup:pneumonias|TI|MM|196^9^0
+00000000|*Pulmonary Heart Disease|C0034072|10698|MH|RtM via: Acute pulmonary heart disease|TI|MM|3^29^0

@@ -1,0 +1,7 @@
+00000000|*Osteophyte|C1956089|4190|MH|Forced Leaf Node Lookup:osteophytes|TI|MM|260^11^0
+00000000|*Pneumothorax|C0032326|34284|MH|RtM via: Pneumothorax|TI|MM;RC|134^12^0
+00000000|*Pleural Effusion|C0032227|31032|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM;RC|150^16^0
+00000000|*Pleural Diseases|C0032226|16140|MH|RtM via: Thickening of pleura|TI|MM;RC|291^18^0
+00000000|*Exudates and Transudates|C0015389|6324|MH|RtM via: Pleural effusion fluid|TI|MM|150^16^0
+00000000|*Clips|C0175722|1578|ET|Entry Term Replacement for "Surgical Instruments";RtM via: Clip;Forced Non-Leaf Node Lookup:clips|TI|MM|227^5^0
+00000000|*Cholecystectomy|C0008320|1401|MH|RtM via: Cholecystectomy procedure;Forced Non-Leaf Node Lookup:cholecystectomy|TI|MM|211^15^0

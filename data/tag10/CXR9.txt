@@ -1,0 +1,9 @@
+00000000|*Pneumothorax|C0032326|28355|MH|RtM via: Pneumothorax;Forced Leaf Node Lookup:pneumothorax|TI|MM|723^12^0
+00000000|*Heart Aneurysm|C0018789|12488|MH|RtM via: Heart Aneurysm;Forced Leaf Node Lookup:cardiac aneurysms|TI|MM|180^16^0
+00000000|*Pleural Effusion|C0032227|30996|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM;RC|703^16^0
+00000000|*Pleural Diseases|C0032226|23751|MH|RtM via: Mass of pleura|TI|MM;RC|164^12^0
+00000000|*Chest|C0817096|23532|ET|Entry Term Replacement for "Thorax";RtM via: Chest;RtM via: Anterior thoracic region;RtM via: Chest CT|TI|MM|471^5^0;198^8^0
+00000000|*Pericardium|C0031050|11196|MH|RtM via: Epicardial adipose tissue|TI|MM;RC|130^14^0
+00000000|*Tomography, X-Ray Computed|C0040405|3780|MH|RtM via: Chest CT;Forced Non-Leaf Node Lookup:ct|TI|MM;RC|198^8^0
+00000000|*Granuloma|C0018188|834|MH|RtM via: Calcified granuloma;Forced Non-Leaf Node Lookup:granulomas|TI|MM|617^19^0;627^9^0
+00000000|*Telephone|C0039457|102|MH|RtM via: Telephone;Forced Non-Leaf Node Lookup:telephones|TI|MM|315^9^0

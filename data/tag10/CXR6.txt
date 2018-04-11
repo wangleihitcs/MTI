@@ -1,0 +1,4 @@
+00000000|*Pneumothorax|C0032326|39558|MH|RtM via: Pneumothorax|TI|MM;RC|172^12^0
+00000000|*Pleural Effusion|C0032227|27582|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM;RC|194^16^0
+00000000|*Lung|C0024109|26586|MH|RtM via: Lung;RtM via: Pulmonary (qualifier value)|TI|MM;RC|150^9^0
+00000000|*Lung Diseases|C0024115|15621|MH|RtM via: Lung consolidation|TI|MM;RC|113^22^0

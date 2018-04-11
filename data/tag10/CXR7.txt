@@ -1,0 +1,5 @@
+00000000|*Atelectasis|C0004144|50847|ET|Entry Term Replacement for "Pulmonary Atelectasis";RtM via: Atelectasis;Forced Non-Leaf Node Lookup:atelectasis|TI|MM;RC|120^11^0;8^11^0
+00000000|*Lungs|C0024109|20118|ET|Entry Term Replacement for "Lung";RtM via: Lung|TI|MM;RC|137^5^0
+00000000|*Pleural Effusion|C0032227|19902|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM;RC|57^16^0
+00000000|*Thoracic Spondylosis|C1261380|1506|ET|Entry Term Replacement for "Spondylosis";RtM via: Thoracic spondylosis;RtM via: Cervical arthritis;Forced Non-Leaf Node Lookup:thoracic spondylosis|TI|MM|154^20^0;182^8^1;196^9^1
+00000000|Arthritis|C0003864|1000|MH|Forced Non-Leaf Node Lookup:arthritis||MM|196^9^0

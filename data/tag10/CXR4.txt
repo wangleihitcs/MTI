@@ -1,0 +1,8 @@
+00000000|*Cicatrix|C2004491|19944|MH|RtM via: Cicatrix;RtM via: Cicatrization;Forced Leaf Node Lookup:scarring|TI|MM|633^8^0;194^8^0;60^8^0
+00000000|*Pulmonary Emphysema|C0034067|98787|MH|RtM via: Chronic bullous emphysema|TI|MM;RC|442^17^0;3^17^0
+00000000|*Chronic Obstructive Lung Disease|C0024117|77877|ET|Entry Term Replacement for "Pulmonary Disease, Chronic Obstructive";RtM via: Chronic Obstructive Airway Disease;Forced Non-Leaf Node Lookup:chronic obstructive lung disease|TI|MM;RC|405^32^0
+00000000|*Lung|C0024109|70404|MH|RtM via: Structure of apex of left lung;RtM via: Structure of right upper lobe of lung;RtM via: Structure of upper lobe of lung|TI|MM;RC|498^14^0;610^16^0;166^11^0
+00000000|*Lung Diseases, Interstitial|C0206062|39405|MH|RtM via: Interstitial lung fibrosis|TI|MM;RC|25^21^0
+00000000|*Pleural Effusion|C0032227|11670|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM|741^16^0
+00000000|*Tomography, X-Ray Computed|C0040405|9237|MH|RtM via: Chest CT;Forced Non-Leaf Node Lookup:ct|TI|MM;RC|292^9^0
+00000000|Emphysema|C0013990|1000|MH|Forced Non-Leaf Node Lookup:emphysema||MM;RC|11^9^0;450^9^0

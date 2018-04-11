@@ -14,4 +14,4 @@ Here is Web api link, https://ii.nlm.nih.gov/Web_API/index.shtml
 eg. All need jars exist MTI/libs, and you must apply an UMLS account to use its Web API. 
 
 ## Conclusion
-My code is very easy, and give some medical texts to let you test! 
+My code is very easy, and give some medical texts to let you test! Remember use absolute path！

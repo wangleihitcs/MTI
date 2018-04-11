@@ -1,0 +1,5 @@
+00000000|*Pneumothorax|C0032326|34810|MH|RtM via: Pneumothorax;Forced Leaf Node Lookup:pneumothorax|TI|MM;RC|28^12^0
+00000000|*Rib Fractures|C0035522|24667|MH|RtM via: Rib Fractures;Forced Leaf Node Lookup:rib fractures|TI|MM;RC|13^13^0
+00000000|*Pleural Effusion|C0032227|26721|MH|RtM via: Pleural effusion disorder;Forced Non-Leaf Node Lookup:pleural effusions|TI|MM;RC|45^16^0
+00000000|*Lungs|C0024109|13365|ET|Entry Term Replacement for "Lung";RtM via: Lung|TI|MM;RC|98^5^0
+00000000|*Mediastinum|C0025066|10485|MH|RtM via: Mediastinum|TI|MM|105^11^0

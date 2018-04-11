@@ -1,0 +1,4 @@
+00000000|*Sternotomy|C0185792|1625|MH|RtM via: Median Sternotomy;Forced Leaf Node Lookup:sternotomy|TI|MM|53^18^0;61^10^0
+00000000|*Pulmonary Artery|C0034052|263|MH|Forced Leaf Node Lookup:pulmonary arteries|TI|MM;RC|87^18^0
+00000000|*Lungs|C0024109|1842|ET|Entry Term Replacement for "Lung";RtM via: Lung|TI|MM;RC|113^5^0
+00000000|*Cardiomegaly|C0018800|396|MH|RtM via: Cardiomegaly;Forced Non-Leaf Node Lookup:cardiomegaly|TI|MM|39^12^0
