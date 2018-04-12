@@ -36,9 +36,6 @@ public class FileUtil {
 			File file = new File(path);
 			if (!file.exists()) {
 				file.createNewFile();
-			} else {
-				System.out.println(path + " is exists!");
-				return false;
 			}
 			FileWriter fileWriter = new FileWriter(file.getAbsolutePath(), true);
 			BufferedWriter bw = new BufferedWriter(fileWriter);
