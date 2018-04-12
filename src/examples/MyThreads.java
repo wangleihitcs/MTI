@@ -23,7 +23,7 @@ public class MyThreads extends Thread {
             MedicalTextIndexer mti = new MedicalTextIndexer();
             mti.getResultsBatch(inputPath, outputPath, fileNames, start, end);
 
-            Thread.sleep(100);
+            Thread.sleep(2000);
 
         } catch (InterruptedException e) {
             System.out.println("Thread " +  threadName + " interrupted.");
@@ -38,7 +38,7 @@ public class MyThreads extends Thread {
         MedicalTextIndexer mti = new MedicalTextIndexer();
         String[] fileNames = mti.getFilenames(inputPath);
         int len = fileNames.length;
-        int batch = 10;
+        int batch = 4;
         System.out.println(len);
         for(int i = 0; i <= 9; i++) {
             String threadName = "Thread" + i;
