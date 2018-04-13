@@ -17,7 +17,7 @@ public class MedicalTextIndexer {
         myGenericObj.setField("Batch_Command", "MTI -opt1L_DCMS -E");
         myGenericObj.setField("BatchNotes", "SKR Web API test");
         myGenericObj.setField("SilentEmail", true);
-        myGenericObj.setField("SingLinePMID", true);
+        // myGenericObj.setField("SingLinePMID", true);
 
         try {
             String results = myGenericObj.handleSubmission();
